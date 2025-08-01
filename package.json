@@ -2,6 +2,7 @@
   "name": "contextcollector",
   "displayName": "ContextCollector",
   "description": "Quickly collect code snippets to build high-quality context for AI assistants",
+  "publisher": "huige9999",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"

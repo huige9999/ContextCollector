@@ -6,8 +6,8 @@
 
 告别在多个文件间繁琐的手动复制粘贴，专注于创造，让ContextCollector为您处理上下文准备工作！
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/[你的发布者ID].contextcollector.svg?style=flat-square&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=[你的发布者ID].contextcollector)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/[你的发布者ID].contextcollector.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=[你的发布者ID].contextcollector)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/huige9999.contextcollector.svg?style=flat-square&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=huige9999.contextcollector)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/huige9999.contextcollector.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=huige9999.contextcollector)
 
 ---
 
@@ -115,6 +115,6 @@ createApp(App).mount('#app')
 
 **享受与AI更高效的协作吧！**
 
-如果您喜欢这款插件，请考虑在 [Marketplace](https://marketplace.visualstudio.com/items?itemName=[你的发布者ID].contextcollector) 上给它一个 ⭐ 好评，或者在 [GitHub](https://github.com/[你的GitHub用户名]/ContextCollector) 上给我们点亮一个Star！
+如果您喜欢这款插件，请考虑在 [Marketplace](https://marketplace.visualstudio.com/items?itemName=huige9999.contextcollector) 上给它一个 ⭐ 好评，或者在 [GitHub](https://github.com/[你的GitHub用户名]/ContextCollector) 上给我们点亮一个Star！
 
 **Enjoy!**
