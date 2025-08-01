@@ -1,6 +1,6 @@
 # ContextCollector for VSCode
 
-![ContextCollector Icon](src/assets/icon.png)
+![icon](./image/icon.png)
 
 **ContextCollector** 是一款旨在彻底改变您与AI编程助手（如ChatGPT、Copilot Chat等）协作方式的VSCode插件。它能让您像高手一样，精准、高效地收集和组织代码上下文，从而获得AI更高质量的回答。
 
@@ -20,21 +20,23 @@ ContextCollector 遵循“小而美”的设计哲学，提供了一套流畅、
 选中您需要的任何代码，右键点击选择 `ContextCollector: Add to Context`，即可将其轻松加入上下文集合。
 
   
-*(建议：此处替换为您自己的GIF动画)*
+![功能演示](./image/1.png)
 
 ### 2. 👀 实时状态与快捷操作
 
 VSCode状态栏右下角会实时显示当前已收集的上下文状态。点击它，即可快速访问所有核心功能。
 
   
-*(建议：此处替换为您自己的GIF动画)*
+![功能演示](./image/2.png)
+
+![功能演示](./image/3.png)
 
 ### 3. 📄 即时预览
 
 在生成最终文件前，随时通过 `Preview Context` 功能在新标签页中查看已收集内容的完整样貌，确保一切尽在掌握。
 
   
-*(建议：此处替换为您自己的GIF动画)*
+![功能演示](./image/4.png)
 
 ### 4. 🚀 一键生成AI友好格式
 
@@ -115,6 +117,6 @@ createApp(App).mount('#app')
 
 **享受与AI更高效的协作吧！**
 
-如果您喜欢这款插件，请考虑在 [Marketplace](https://marketplace.visualstudio.com/items?itemName=huige9999.contextcollector) 上给它一个 ⭐ 好评，或者在 [GitHub](https://github.com/[你的GitHub用户名]/ContextCollector) 上给我们点亮一个Star！
+如果您喜欢这款插件，请考虑在 [Marketplace](https://marketplace.visualstudio.com/items?itemName=huige9999.contextcollector) 上给它一个 ⭐ 好评，或者在 [GitHub](https://github.com/huige9999/ContextCollector) 上给我们点亮一个Star！
 
 **Enjoy!**
