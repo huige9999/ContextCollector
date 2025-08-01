@@ -9,15 +9,39 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "contextcollector.helloWorld",
-        "title": "Hello World"
+        "command": "context-collector.addSelection",
+        "title": "ContextCollector: Add to Context"
+      },
+      {
+        "command": "context-collector.generateFile",
+        "title": "ContextCollector: Generate Context File"
+      },
+      {
+        "command": "context-collector.previewContext",
+        "title": "ContextCollector: Preview Context"
+      },
+      {
+        "command": "context-collector.clearContext",
+        "title": "ContextCollector: Clear Context"
+      },
+      {
+        "command": "context-collector.showOptions",
+        "title": "ContextCollector: Show Options"
       }
-    ]
+    ],
+    "menus": {
+      "editor/context": [
+        {
+          "when": "editorHasSelection",
+          "command": "context-collector.addSelection",
+          "group": "navigation@5"
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run package",
